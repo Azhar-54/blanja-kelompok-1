@@ -11,7 +11,7 @@
     <br />
    <a href="https://innovation-blanja.vercel.app/" target="_blank">View Demo</a>
     ·
-    <a href="https://github.com/dimassagngsptr/golang-server-blanja.git" target="_blank">View Back-End Repo</a>
+    <a href="https://github.com/Azhar-54/golang-server-blanja" target="_blank">View Back-End Repo</a>
   </p>
 </div>
 

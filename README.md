@@ -253,15 +253,15 @@ Contributions are what make the open source community such an amazing place to l
 
 If you have any questions or inquiries regarding this project, feel free to contact us
 
-Email : [dimasageng58@gmail.com](dimasageng58@gmail.com)
+Email : [burhanuddinazhar2@gmail.com](burhanuddinazhar2@gmail.com)
 
-Linkedin : [linkedin.com/in/dimasagengsaputro](https://www.linkedin.com/in/dimasagengsaputro/)
+Linkedin : [https://www.linkedin.com/in/burhanudin-azhar](https://www.linkedin.com/in/burhanudin-azhar/)
 
 ### Documentation
 
-The server for this project was created by [Dimas Ageng Saputro](https://github.com/dimassagngsptr) using [Go](https://go.dev/). If you want to see more about this back-end project, please visit [back-end Blanja](https://github.com/dimassagngsptr/golang-server-blanja.git)
+The server for this project was created by [Burhanudin Azhar](https://github.com/Azhar-54) using [Go](https://go.dev/). If you want to see more about this back-end project, please visit [back-end Blanja](https://github.com/Azhar-54/golang-server-blanja)
 
 ### Related Project
 
-:rocket: [`FrontEnd - Blanja`](https://github.com/dimassagngsptr/blanja-kelompok-1) </br>
-:rocket: [`Backend - Blanja`](https://github.com/dimassagngsptr/golang-server-blanja.git)
+:rocket: [`FrontEnd - Blanja`](https://github.com/Azhar-54/blanja-kelompok-1) </br>
+:rocket: [`Backend - Blanja`](https://github.com/Azhar-54/golang-server-blanja)

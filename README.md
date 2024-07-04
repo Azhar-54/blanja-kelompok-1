@@ -253,7 +253,7 @@ Contributions are what make the open source community such an amazing place to l
 
 If you have any questions or inquiries regarding this project, feel free to contact us
 
-Email : [burhanuddinazhar2@gmail.com](burhanuddinazhar2@gmail.com)
+Email : burhanuddinazhar2@gmail.com
 
 Linkedin : [https://www.linkedin.com/in/burhanudin-azhar](https://www.linkedin.com/in/burhanudin-azhar/)
 

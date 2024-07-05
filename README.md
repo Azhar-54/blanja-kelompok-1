@@ -251,7 +251,7 @@ Contributions are what make the open source community such an amazing place to l
 
 ### Contact
 
-If you have any questions or inquiries regarding this project, feel free to contact us
+If you have any questions or inquiries regarding this project, feel free to contact me at
 
 Email : burhanuddinazhar2@gmail.com
 

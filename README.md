@@ -158,7 +158,7 @@ pass  : @Seller123
   </tr>
   <tr>
     <td>Profile Customer</td>
-    <td>add shipping address</td>
+    <td>Add Shipping Address</td>
   </tr>
   <tr>
     <td><img src="https://github.com/dimassagngsptr/blanja-kelompok-1/blob/df3f76ec9cd4de47e30c78fabc5b9f54fcf01a98/apps/web/src/assets/screenshot/profile%20costumer.png" /></td>

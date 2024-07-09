@@ -164,12 +164,13 @@ const RegisterCustomer = () => {
               />
               Female
             </label>
-          </div> */}
+          </div> 
           {formik.touched.gender && formik.errors.gender && (
             <div className="text-red-500 text-[12px] font-poppins">
               {formik.errors.gender}
             </div>
           )}
+          */}
         </div>
         <div className="flex justify-center py-2">
           <Button

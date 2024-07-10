@@ -161,15 +161,15 @@ pass  : @Seller123
     <td>Add Shipping Address</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/dimassagngsptr/blanja-kelompok-1/blob/df3f76ec9cd4de47e30c78fabc5b9f54fcf01a98/apps/web/src/assets/screenshot/profile%20costumer.png" /></td>
-    <td><img src="https://github.com/dimassagngsptr/blanja-kelompok-1/blob/df3f76ec9cd4de47e30c78fabc5b9f54fcf01a98/apps/web/src/assets/screenshot/add%20shipping%20address.png" /></td>
+    <td><img src="https://imgur.com/1jIjZs7.png" /></td>
+    <td><img src="https://imgur.com/MupgTF7.png" /></td>
   </tr>
   <tr>
     <td>My order</td>
     <td>Filter Product</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/dimassagngsptr/blanja-kelompok-1/blob/df3f76ec9cd4de47e30c78fabc5b9f54fcf01a98/apps/web/src/assets/screenshot/my%20order.png" /></td>
+    <td><img src=https://imgur.com/oEHtXL0.png" /></td>
     <td>
     <img src="./apps/web/src/assets/screenshot/filter-products.png" />
     </td>
